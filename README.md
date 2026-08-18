@@ -49,4 +49,4 @@ Hosted via **GitHub Pages**, served from the `main` branch, root folder. Any pus
 
 - Email: adityadas06062004@gmail.com
 - LinkedIn: [linkedin.com/in/aditya-das-a769a9328](https://linkedin.com/in/aditya-das-a769a9328)
-- GitHub: [@adityadas06062004-png](https://github.com/adityadas06062004-png)
+- GitHub: [@adityadas06062004-png](https://github.com/adityadas06062004-png)   

@@ -2,19 +2,19 @@
 
 🔗 **Live site:** [adityadas06062004-png.github.io/aditya-das-portfolio](https://adityadas06062004-png.github.io/aditya-das-portfolio/)
 
-A single-page interactive portfolio built to showcase my cloud, DevOps, and web development work and designed around a CI/CD "deployment pipeline" theme (Boot → Build → Test → Package → Deploy → Release → Live), since that's literally what I spend my time doing.
+A single page interactive portfolio built to showcase my cloud, DevOps and web development work and designed around a CI/CD "deployment pipeline" theme (Boot → Build → Test → Package → Deploy → Release → Live), since that's literally what I spend my time doing.
 
 ## About Me
 
-CSE undergraduate at Narula Institute of Technology, Kolkata, focused on Cloud & DevOps (GCP, Azure), GitHub Copilot, Kubernetes, and AI agents. Open to Software Engineering / Cloud Engineering internships.
+CSE undergraduate at Narula Institute of Technology, Kolkata focused on Cloud & DevOps (GCP, Azure), GitHub Copilot, Kubernetes, machine learning and AI agents. Open to Software Engineering / Cloud Engineering internships.
 
 ## Features
 
-1. Scroll-driven pipeline navigation rail with live progress fill
-1. Typewriter-animated tagline
-1. 3D tilt-on-hover project, skill, and certification cards
+1. Scroll driven pipeline navigation rail with live progress fill
+1. Typewriter animated tagline
+1. 3D tilt on hover project, skill and certification cards
 1. Ambient animated gradient background
-1. Fully responsive, single-file HTML/CSS/JS with no build step required
+1. Fully responsive, single file HTML/CSS/JS with no build step required
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ CSE undergraduate at Narula Institute of Technology, Kolkata, focused on Cloud &
 1. **Skills**: Cloud & DevOps, IT Administration, Programming, Data & AI
 1. **Projects**: client work, independent builds, cloud practice
 1. **Experience**: internship history
-1. **Certifications**: Google Cloud, Microsoft Learn, OpenAI Academy, IIT Guwahati, IBM, and more
+1. **Certifications**: Google Cloud, Microsoft Learn, OpenAI Academy, IIT Guwahati, IBM and more
 1. **Contact**: email, phone, GitHub, LinkedIn
 
 ## Running Locally
